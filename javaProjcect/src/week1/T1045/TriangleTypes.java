@@ -1,4 +1,4 @@
-package T1045;
+package week1.T1045;
 
 import java.util.Arrays;
 import java.util.Scanner;

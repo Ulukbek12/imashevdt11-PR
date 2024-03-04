@@ -1,4 +1,4 @@
-package T1098;
+package week1.T1098;
 
 public class SequenceIJ4 {
     public static void main(String[] args) {

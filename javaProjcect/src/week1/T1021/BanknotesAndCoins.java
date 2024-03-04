@@ -1,4 +1,4 @@
-package T1021;
+package week1.T1021;
 
 import java.util.Scanner;
 
