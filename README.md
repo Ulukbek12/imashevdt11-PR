@@ -18,6 +18,7 @@ Week2
 - Think over the design of the store's database and design it in a local database
 - Make a successful connection of the project to the database through the JDBC
 
+```java
 public class JustClass{
   public static void main(String[] args){
     System.out.println("Hello! This is my repository for an internship at Neobis.")
