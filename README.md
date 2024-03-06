@@ -12,7 +12,12 @@ Week1
 - Learn how to use the basic operations of git and GitHub
 - Push problem solutions to GitHub
 
-```java
+Week2
+- Strengthen your SQL knowledge
+- Learn how to use Pull Requests
+- Think over the design of the store's database and design it in a local database
+- Make a successful connection of the project to the database through the JDBC
+
 public class JustClass{
   public static void main(String[] args){
     System.out.println("Hello! This is my repository for an internship at Neobis.")
