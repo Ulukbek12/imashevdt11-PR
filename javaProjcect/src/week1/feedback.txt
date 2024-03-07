@@ -1,0 +1,1 @@
+Everything is okey, but class shoud be named as MAIN
